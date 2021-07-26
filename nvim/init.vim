@@ -143,6 +143,7 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 
 Plug 'itchyny/vim-cursorword'
 Plug 'lfv89/vim-interestingwords'
+Plug 'wakatime/vim-wakatime'
 
 call plug#end()
 
